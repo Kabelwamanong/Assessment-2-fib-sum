@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assessment-2-fib-sum/1.0.0": {
+        "runtime": {
+          "Assessment-2-fib-sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment-2-fib-sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
